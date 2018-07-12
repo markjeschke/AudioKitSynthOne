@@ -7,7 +7,7 @@ introduce new features, fix bugs, improve efficiency, and keep the synthesizer u
 new capabilities of the base operating system.  
 ![Screenshot](http://audiokitpro.com/images/ak2.gif)
 
-If you're new to [AudioKit](https://audiokitpro.com/), you can learn more and view getting started links: [here](https://audiokitpro.com/audiokit/). This code and app is made possible by all the contributors to AudioKit. Many of the features of Synth One are availble as modules in AudioKit, allowing you easy access to filters, reverbs, effects, and other DSP processing. 
+If you're new to [AudioKit](https://audiokitpro.com/), you can learn more: [here](https://audiokitpro.com/audiokit/). This code and app is made possible by all the contributors to AudioKit. Many of the features of Synth One are availble as modules in AudioKit, allowing you easy access to filters, reverbs, effects, and other DSP processing. 
 
 ## App Store Location
 
@@ -88,7 +88,7 @@ There are a few major updates we intend for this synth:
 
 ## Code Usage
 
-You are free to use this is code as follows:
+You are free to:
 
 (1) Use this code as a learning tool.  
 (2) Re-skin this app (change the graphics), modify the controls, and upload to the app store.  
@@ -100,6 +100,8 @@ If you use any code, it would be great if you gave this project some credit or a
 If you make an app with this code, please let us know! We think you're awesome, and would love to hear from you and/or feature your app.
 
 IMPORTANT: You must change the graphics if you upload this to the app store.
+
+IMPORTANT: You must fill in your own private API keys for AudioBus and others in the Private.swift file to match your own project. The default placeholder values are not suitable for distribution.
 
 ## Legal Notices
 
