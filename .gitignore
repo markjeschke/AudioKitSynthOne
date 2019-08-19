@@ -70,3 +70,5 @@ fastlane/test_output
 AudioKitSynthOne/Link/include
 AudioKitSynthOne/Link/lib
 /AudioKitSynthOne/Private.swift
+
+*.DS_Store
